@@ -91,9 +91,9 @@ export default function AppStoreListing() {
         </button>
       </a>
         <div className="flex items-center gap-2">
-          <div className="bg-green-600 text-white px-3 py-1 rounded-full flex items-center gap-1">
+          <div className="bg-blue-600 text-white px-3 py-1 rounded-full flex items-center gap-1">
             <span className="text-sm font-medium flex items-center gap-1">
-              <CheckCircle className="h-4 w-4 fill-white text-green-600" />
+              <CheckCircle className="h-4 w-4 fill-white text-blue-600" />
               {t("common.verified")}
             </span>
           </div>
