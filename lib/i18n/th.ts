@@ -10,7 +10,7 @@ export const th = {
     no: "ไม่",
   },
   downloadBanner: {
-    title: "BKB APP Download",
+    title: "APP Download",
     subtitle: "ดาวน์โหลดแอปตอนนี้",
   },
   appInfo: {
