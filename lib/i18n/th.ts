@@ -57,9 +57,9 @@ export const th = {
   },
   navigation: {
     games: "เกม",
-    apps: "แอป",
-    search: "ค้นหา",
-    books: "หนังสือ",
+    apps: "สมัคร",
+    search: "เริ่มเกม",
+    books: "ติดต่อ",
   },
   rewardModal: {
     header: "รางวัล",
